@@ -125,7 +125,7 @@ $ make view-browser-tests
 
 ## Copyright
 
-Copyright &copy; 2016. The Compute.io Authors.
+Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 
 
 [npm-image]: http://img.shields.io/npm/v/math-abs.svg
@@ -150,4 +150,5 @@ Copyright &copy; 2016. The Compute.io Authors.
 [istanbul]: https://github.com/gotwarlost/istanbul
 [testling]: https://ci.testling.com
 
+[compute-io]: https://github.com/compute-io/
 [absolute-value]: https://en.wikipedia.org/wiki/Absolute_value
