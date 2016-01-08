@@ -7,7 +7,7 @@ Absolute Value
 The [absolute value][absolute-value] is defined as
 
 <div class="equation" align="center" data-raw-text="|x| = \begin{cases} x &amp; \textrm{if}\ x \geq 0 \\ -x &amp; \textrm{if}\ x < 0\end{cases}" data-equation="eq:absolute_value">
-	<img src="" alt="Absolute value definition.">
+	<img src="https://cdn.rawgit.com/math-io/abs/ea1d4096f7300f593d29705b025c1f7bf47da1b5/docs/img/eqn.svg" alt="Absolute value definition.">
 	<br>
 </div>
 
