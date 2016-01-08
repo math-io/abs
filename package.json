@@ -23,7 +23,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/math-io/math-abs.git"
+    "url": "git://github.com/math-io/abs.git"
   },
   "keywords": [
     "compute.io",
@@ -42,7 +42,7 @@
     "number"
   ],
   "bugs": {
-    "url": "https://github.com/math-io/math-abs/issues"
+    "url": "https://github.com/math-io/abs/issues"
   },
   "dependencies": {},
   "devDependencies": {
