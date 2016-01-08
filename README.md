@@ -131,20 +131,20 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 [npm-image]: http://img.shields.io/npm/v/math-abs.svg
 [npm-url]: https://npmjs.org/package/math-abs
 
-[build-image]: http://img.shields.io/travis/math-io/math-abs/master.svg
-[build-url]: https://travis-ci.org/math-io/math-abs
+[build-image]: http://img.shields.io/travis/math-io/abs/master.svg
+[build-url]: https://travis-ci.org/math-io/abs
 
-[coverage-image]: https://img.shields.io/codecov/c/github/math-io/math-abs/master.svg
-[coverage-url]: https://codecov.io/github/math-io/math-abs?branch=master
+[coverage-image]: https://img.shields.io/codecov/c/github/math-io/abs/master.svg
+[coverage-url]: https://codecov.io/github/math-io/abs?branch=master
 
-[dependencies-image]: http://img.shields.io/david/math-io/math-abs.svg
-[dependencies-url]: https://david-dm.org/math-io/math-abs
+[dependencies-image]: http://img.shields.io/david/math-io/abs.svg
+[dependencies-url]: https://david-dm.org/math-io/abs
 
-[dev-dependencies-image]: http://img.shields.io/david/dev/math-io/math-abs.svg
-[dev-dependencies-url]: https://david-dm.org/dev/math-io/math-abs
+[dev-dependencies-image]: http://img.shields.io/david/dev/math-io/abs.svg
+[dev-dependencies-url]: https://david-dm.org/dev/math-io/abs
 
-[github-issues-image]: http://img.shields.io/github/issues/math-io/math-abs.svg
-[github-issues-url]: https://github.com/math-io/math-abs/issues
+[github-issues-image]: http://img.shields.io/github/issues/math-io/abs.svg
+[github-issues-url]: https://github.com/math-io/abs/issues
 
 [tape]: https://github.com/substack/tape
 [istanbul]: https://github.com/gotwarlost/istanbul
