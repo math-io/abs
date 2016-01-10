@@ -47,7 +47,7 @@ val = abs( -0 );
 ## Examples
 
 ``` javascript
-var abs = require( './../lib' );
+var abs = require( 'math-abs' );
 
 var rand;
 var sign;
