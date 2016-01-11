@@ -27,3 +27,19 @@ test( 'the function computes the absolute value of negative zero', function test
 	t.equal( isNegativeZero( abs( -0 ) ), false, 'not negative zero' );
 	t.end();
 });
+
+test( 'the function computes the absolute value of infinity', function test( t ) {
+	var pinf = Number.POSITIVE_INFINITY;
+	var ninf = Number.NEGATIVE_INFINITY;
+
+	t.equal( abs( pinf ), pinf, 'positive infinity' );
+	t.equal( abs( ninf ), pinf, 'negative infinity' );
+	t.end();
+});
+
+test( 'if provided a `NaN`, the function returns `NaN`', function test( t ) {
+	var v = abs( NaN );
+	t.ok( v !== v, 'returns NaN' );
+	t.end();
+});
+
